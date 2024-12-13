@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://babyworldnatural.com">
-    <img width="20%" style="border-radius: 10px;" src="https://efwlxc.babyworldnatural.com/uploads/baby-world-natural.png">
+    <img width="20%" style="border-radius: 10px;" src="https://babyworldnatural.com/image/catalog/baby-logo.png">
   </a>
 </p>
 
