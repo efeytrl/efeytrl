@@ -23,6 +23,14 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://otosuv.com">
+    <img width="20%" style="border-radius: 10px;" src="https://otosuv.com/logoWhite-DvjCxM5V.png">
+  </a>
+</p>
+
+
+
 ## 🌐 Discord Profile
 <img style="border-radius: 10px;" width="100%" src="https://efwlxc.babyworldnatural.com/uploads/banner.jpg">
 
