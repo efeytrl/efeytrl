@@ -17,17 +17,16 @@
 ## 👩‍💻 Website Project
 <p align="center">You can access the link by clicking on the image.</p>
 
-<p align="center">
-  <a href="https://babyworldnatural.com">
+<p align="center" style="display: flex; justify-content: center; gap: 30px;">
+  <a href="https://babyworldnatural.com" target="_blank">
     <img width="20%" style="border-radius: 10px;" src="https://babyworldnatural.com/image/catalog/baby-logo.png">
   </a>
-</p>
 
-<p align="center">
-  <a href="https://otosuv.com">
+  <a href="https://otosuv.com" target="_blank">
     <img width="20%" style="border-radius: 10px;" src="https://otosuv.com/logoWhite-DvjCxM5V.png">
   </a>
 </p>
+
 
 
 
