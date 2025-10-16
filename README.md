@@ -1,5 +1,5 @@
 <h1 align="center"> </Kroxly>
- <img href="https://discord.com/users/882582406358515713" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&pause=1000&color=fff&background=69FF2000&center=true&vCenter=true&width=500&lines=Kroxly++always+the++best;Full-Stack++Developer" alt="Kroxly" />
+ <img href="https://discord.com/users/882582406358515713" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&pause=1000&color=fff&background=69FF2000&center=true&vCenter=true&width=500&lines=Kroxly++always+the++best;Web++Designer++and++Developer" alt="Kroxly" />
 </h1>
 
 ## 🪐 Social Media
