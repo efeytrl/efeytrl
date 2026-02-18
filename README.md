@@ -14,25 +14,7 @@
 <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,html,java,js,laravel,nextjs,nodejs,php,py,react,tailwind,ts,vue,arduino,astro,bootstrap,cloudflare,codepen,bots,discordjs,firebase,git,ai,jquery,kali,linux,lua,ms,mongodb,mysql,npm,phpstorm,postman,supabase,unity,unreal,vercel,vscode">
 </p>
 
-## 👩‍💻 Website Project
-<p align="center">You can access the link by clicking on the image.</p>
-
-<p align="center" style="display: flex; justify-content: center; gap: 30px;">
-  <a href="https://babyworldnatural.com" target="_blank">
-    <img width="20%" style="border-radius: 10px;" src="https://babyworldnatural.com/image/catalog/baby-logo.png">
-  </a>
-
-  <a href="https://otosuv.com" target="_blank">
-    <img width="20%" style="border-radius: 10px;" src="https://otosuv.com/logoWhite-DvjCxM5V.png">
-  </a>
-</p>
-
-
-
-
 ## 🌐 Discord Profile
-<img style="border-radius: 10px;" width="100%" src="https://efwlxc.babyworldnatural.com/uploads/banner.jpg">
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/882582406358515713)](https://discord.com/users/882582406358515713)
 
 ## 📈 Profile Stats
