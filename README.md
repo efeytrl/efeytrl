@@ -23,6 +23,6 @@
 </h2>
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kroxlycode&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kroxlycode&theme=kanagawa-paper&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Tue)](https://git.io/streak-stats)
 
 ---
