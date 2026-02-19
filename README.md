@@ -7,7 +7,6 @@
    <a align="center" href="https://www.instagram.com/kroxlycode" target"blank_"><img src="https://skillicons.dev/icons?i=instagram"></a>
  <a align="center" href="https://discord.com/users/882582406358515713" target"blank_"><img src="https://skillicons.dev/icons?i=discord"></a>
   <a align="center" href="https://www.github.com/kroxlycode" target"blank_"><img src="https://skillicons.dev/icons?i=github"></a>
-  <a align="center" href="https://open.spotify.com/user/31z4wbmntna6scthalke3whgdfdi?si=f8fd1e88170746d6" target"blank_"><img src="https://skillicons.dev/icons?i=spotify"></a>
 
 # 💻 Tech Stack
 <p align="center">
