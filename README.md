@@ -14,7 +14,7 @@
 </p>
 
 ## 🌐 Discord Profile
-[![Discord Presence](https://lanyard.cnrad.dev/api/882582406358515713)](https://discord.com/users/882582406358515713)
+[![Discord Presence](https://lanyard.cnrad.dev/api/882582406358515713?theme=dark&bg=000)](https://discord.com/users/882582406358515713)
 
 ## 📈 Profile Stats
 <h2 align="center">
