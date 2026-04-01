@@ -10,7 +10,7 @@
 
 # 💻 Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cs,cpp,css,html,java,js,laravel,nextjs,nodejs,php,py,react,tailwind,ts,vue,arduino,astro,bootstrap,cloudflare,codepen,bots,discordjs,firebase,git,ai,jquery,kali,linux,lua,ms,mongodb,mysql,npm,phpstorm,postman,supabase,unity,unreal,vercel,vscode">
+<img src="https://skillicons.dev/icons?i=cs,css,html,java,js,laravel,nextjs,nodejs,php,py,react,tailwind,ts,vue,astro,bootstrap,cloudflare,discordjs,firebase,git,ai,linux,mongodb,mysql,npm,phpstorm,postman,supabase,vercel,vscode">
 </p>
 
 ## 🌐 Discord Profile
