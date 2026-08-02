@@ -1,9 +1,5 @@
-<h1 align="center">
-  Hi 👋, I'm Efe
-</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Web+Designer;React+%7C+Next.js+%7C+Vue.js;Building+Modern+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Efe;Frontend+Developer;Web+Designer;Web+Developer" />
 </p>
 
 ---
@@ -15,6 +11,8 @@ I'm **Efe**, a passionate **Frontend Developer** and **Web Designer** from Türk
 ---
 
 ## Featured Projects
+
+A selection of my recent web projects.
 
 | [kroxly.dev](https://kroxly.dev) | [babyworldnatural.com](https://babyworldnatural.com) | [depremtestraporu.com](https://depremtestraporu.com) |
 |:---:|:---:|:---:|
