@@ -39,21 +39,8 @@ Projects built for developers and the open-source community.
 Technologies I use to build modern web applications.
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,php,python" />
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,supabase,mysql,mongodb,git,github,linux,vercel,postman" />
-</p>
-
----
-
-## GitHub Stats
-
-My GitHub activity and development statistics.
-
-<p align="center">
- 
-![kroxlycode's GitHub Stats](https://readme-stats-github.pages.dev/api?username=kroxlycode&theme=dark)
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=kroxlycode&theme=dark)
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,python" />
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,supabase,mysql,mongodb,linux,vercel" />
 </p>
 
 ---
