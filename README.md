@@ -30,6 +30,7 @@ Projects built for developers and the open-source community.
 | Project | Description | Features | Links |
 |:-------:|:------------|:---------|:------|
 | **Spotify Widget** | Windows 11-inspired Spotify widget powered by the Spotify Web API. | • Real-time playback<br>• Album artwork & artist info<br>• Custom themes<br>• Responsive design<br>• Simple API integration | [Visit](https://spotify-widget.kroxly.dev) • [Source Code](https://github.com/kroxlycode/spotify-widget) • [Documentation](https://github.com/kroxlycode/spotify-widget#readme) • [Releases](https://spotify-widget.kroxly.dev/#releases) |
+| **Github Stats Generator** | Dynamic, high-performance GitHub profile statistics cards, badges, and README template generator. | • Profile Stats, Top Languages, Streak Stats, Activity Graphs, and Trophies. | [Visit](https://github-stats.kroxly.dev/) |
 
 ---
 
