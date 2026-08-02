@@ -1,20 +1,94 @@
-<h1 align="center"> </Kroxly>
- <img href="https://discord.com/users/882582406358515713" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&pause=1000&color=fff&background=69FF2000&center=true&vCenter=true&width=500&lines=Kroxly++always+the++best;Web++Designer++and++Developer" alt="Kroxly" />
+<h1 align="center">
+  Hi 👋, I'm Efe
 </h1>
 
-## Social Media
 <p align="center">
-   <a align="center" href="https://www.instagram.com/kroxlycode" target"blank_"><img src="https://skillicons.dev/icons?i=instagram"></a>
- <a align="center" href="https://discord.com/users/882582406358515713" target"blank_"><img src="https://skillicons.dev/icons?i=discord"></a>
-  <a align="center" href="https://www.github.com/kroxlycode" target"blank_"><img src="https://skillicons.dev/icons?i=github"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Web+Designer;React+%7C+Next.js+%7C+Vue.js;Building+Modern+Web+Applications" alt="Typing SVG" />
 </p>
-
-## Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cs,css,html,java,js,laravel,nextjs,nodejs,php,py,react,tailwind,ts,vue,astro,bootstrap,cloudflare,discordjs,firebase,git,ai,linux,mongodb,mysql,npm,phpstorm,postman,supabase,vercel,vscode">
-</p>
-
-# GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=kroxlycode&theme=kanagawa-paper&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Tue)](https://git.io/streak-stats)
 
 ---
+
+## About Me
+
+I'm **Efe**, a passionate **Frontend Developer** and **Web Designer** from Türkiye. I enjoy building fast, modern and user-friendly web applications using technologies like **React**, **Next.js**, **Vue.js**, **TypeScript**, **PHP** and **Supabase**. I love creating SaaS products, developer tools and open-source projects with clean code, responsive design and intuitive user experiences.
+
+---
+
+## Featured Projects
+
+| [kroxly.dev](https://kroxly.dev) | [babyworldnatural.com](https://babyworldnatural.com) | [depremtestraporu.com](https://depremtestraporu.com) |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/ac358c5e-b429-4819-b1d3-9bef1b3a1b1d" width="100%"> | <img src="https://github.com/user-attachments/assets/a2e759b9-c8b9-458f-ae54-72fa08ba66cf" width="100%"> | <img src="https://github.com/user-attachments/assets/36553fd0-fbdc-4733-aad9-141a8c21078a" width="100%"> |
+| **Personal portfolio showcasing my projects, skills, and experience.** | **Premium baby products with a modern, responsive shopping experience.** | **Platform for earthquake risk assessments and structural report services.** |
+| [Visit](https://kroxly.dev) | [Visit](https://babyworldnatural.com) | [Visit](https://depremtestraporu.com) |
+
+| [spotify-widget.kroxly.dev](https://spotify-widget.kroxly.dev) | **Coming Soon** | **Coming Soon** |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/3dc5d64c-48bf-429f-baeb-cd7e9d5e5b0a" width="100%"> | <img src="https://img.magnific.com/free-vector/abstract-comin-soon-promo-template-with-brush-stroke-effect_1017-53237.jpg?semt=ais_hybrid&w=740&q=80" width="100%"> | <img src="https://img.magnific.com/free-vector/abstract-comin-soon-promo-template-with-brush-stroke-effect_1017-53237.jpg?semt=ais_hybrid&w=740&q=80" width="100%"> |
+| **A beautiful Windows-style Spotify widget powered by the Spotify API.** | | |
+| [Visit](https://spotify-widget.kroxly.dev) | | |
+
+---
+
+
+## Open Source
+
+Projects built for developers and the open-source community.
+
+| Project | Description | Features | Links |
+|:-------:|:------------|:---------|:------|
+| **Spotify Widget** | Windows 11-inspired Spotify widget powered by the Spotify Web API. | • Real-time playback<br>• Album artwork & artist info<br>• Custom themes<br>• Responsive design<br>• Simple API integration | [Visit](https://spotify-widget.kroxly.dev) • [Source Code](https://github.com/kroxlycode/spotify-widget) • [Documentation](https://github.com/kroxlycode/spotify-widget#readme) • [Releases](https://spotify-widget.kroxly.dev/#releases) |
+
+---
+
+## Tech Stack
+
+Technologies I use to build modern web applications.
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,php,python" />
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,supabase,mysql,mongodb,git,github,linux,vercel,postman" />
+</p>
+
+---
+
+## GitHub Stats
+
+My GitHub activity and development statistics.
+
+<p align="center">
+ 
+![kroxlycode's GitHub Stats](https://readme-stats-github.pages.dev/api?username=kroxlycode&theme=dark)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=kroxlycode&theme=dark)
+
+</p>
+
+---
+
+## Connect With Me
+
+Let's connect and build something awesome.
+
+<p align="center">
+<a href="https://github.com/kroxlycode">
+<img src="https://skillicons.dev/icons?i=github">
+</a>
+<a href="https://instagram.com/kroxlypain">
+<img src="https://skillicons.dev/icons?i=instagram">
+</a>
+<a href="https://discord.com/users/882582406358515713">
+<img src="https://skillicons.dev/icons?i=discord">
+</a>
+</p>
+
+---
+
+<div align="center">
+ 
+![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<p align="center">
+Made with ❤️ by <b>Efe</b>
+</p>
