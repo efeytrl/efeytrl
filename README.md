@@ -14,17 +14,11 @@ I'm **Efe**, a passionate **Frontend Developer** and **Web Designer** from Türk
 
 A selection of my recent web projects.
 
-| [kroxly.dev](https://kroxly.dev) |  | [spotify-widget.kroxly.dev](https://spotify-widget.kroxly.dev) |
-|:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/ac358c5e-b429-4819-b1d3-9bef1b3a1b1d" width="100%"> |  | <img src="https://github.com/user-attachments/assets/3dc5d64c-48bf-429f-baeb-cd7e9d5e5b0a" width="100%"> |
-| **Personal portfolio showcasing my projects, skills, and experience.** |  | **A beautiful Windows-style Spotify widget powered by the Spotify API.** |
-| [Visit](https://kroxly.dev) |  | [Visit](https://spotify-widget.kroxly.dev) |
-
-| [babyworldnatural.com](https://babyworldnatural.com) | [depremtestraporu.com](https://depremtestraporu.com) |  |
-|:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/a2e759b9-c8b9-458f-ae54-72fa08ba66cf" width="100%"> | <img src="https://github.com/user-attachments/assets/36553fd0-fbdc-4733-aad9-141a8c21078a" width="100%"> |  |
-| **Premium baby products with a modern, responsive shopping experience.** | **Platform for earthquake risk assessments and structural report services.** | |
-| [Visit](https://babyworldnatural.com) | [Visit](https://depremtestraporu.com) | |
+| [kroxly.dev](https://kroxly.dev) |  [spotify-widget.kroxly.dev](https://spotify-widget.kroxly.dev) |
+|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/ac358c5e-b429-4819-b1d3-9bef1b3a1b1d" width="100%"> | <img src="https://github.com/user-attachments/assets/3dc5d64c-48bf-429f-baeb-cd7e9d5e5b0a" width="100%"> |
+| **Personal portfolio showcasing my projects, skills, and experience.** | **A beautiful Windows-style Spotify widget powered by the Spotify API.** |
+| [Visit](https://kroxly.dev) | [Visit](https://spotify-widget.kroxly.dev) |
 
 ---
 
