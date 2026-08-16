@@ -39,8 +39,8 @@ Projects built for developers and the open-source community.
 Technologies I use to build modern web applications.
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,python" />
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,supabase,mysql,mongodb,linux,vercel" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,php,python" />
+<img src="https://skillicons.dev/icons?i=supabase,mysql,mongodb,linux,vercel" />
 </p>
 
 ---
@@ -68,7 +68,3 @@ Let's connect and build something awesome.
 ![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
-<p align="center">
-Made with ❤️ by <b>Efe</b>
-</p>
