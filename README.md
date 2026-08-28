@@ -14,11 +14,11 @@ I'm **Efe**, a passionate **Frontend Developer** and **Web Designer** from Türk
 
 A selection of my recent web projects.
 
-| [kroxly.dev](https://kroxly.dev) |  [spotify-widget.kroxly.dev](https://spotify-widget.kroxly.dev) |
+| [efeytrl.dev](https://efeytrl.dev) |  [petsahiplen.com](https://petsahiplen.com) |
 |:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/ac358c5e-b429-4819-b1d3-9bef1b3a1b1d" width="100%"> | <img src="https://github.com/user-attachments/assets/3dc5d64c-48bf-429f-baeb-cd7e9d5e5b0a" width="100%"> |
-| **Personal portfolio showcasing my projects, skills, and experience.** | **A beautiful Windows-style Spotify widget powered by the Spotify API.** |
-| [Visit](https://kroxly.dev) | [Visit](https://spotify-widget.kroxly.dev) |
+| x | x |
+| x | x |
+| [Visit](https://efeytrl.dev) | [Visit](https://petsahiplen.com) |
 
 ---
 
@@ -29,8 +29,7 @@ Projects built for developers and the open-source community.
 
 | Project | Description | Features | Links |
 |:-------:|:------------|:---------|:------|
-| **Spotify Widget** | Windows 11-inspired Spotify widget powered by the Spotify Web API. | • Real-time playback<br>• Album artwork & artist info<br>• Custom themes<br>• Responsive design<br>• Simple API integration | [Visit](https://spotify-widget.kroxly.dev) • [Source Code](https://github.com/kroxlycode/spotify-widget) • [Documentation](https://github.com/kroxlycode/spotify-widget#readme) • [Releases](https://spotify-widget.kroxly.dev/#releases) |
-| **Github Stats Generator** | Dynamic, high-performance GitHub profile statistics cards, badges, and README template generator. | • Profile Stats, Top Languages, Streak Stats, Activity Graphs, and Trophies. | [Visit](https://github-stats.kroxly.dev/) • [Source Code](https://github.com/kroxlycode/github-stats-generator) |
+| Spotify Widget | Windows 11-inspired Spotify widget powered by the Spotify Web API. | • Real-time playback<br>• Album artwork & artist info<br>• Custom themes<br>• Responsive design<br>• Simple API integration | [Visit](https://spotify-widget-website.vercel.app) • [Source Code](https://github.com/efeytrl/spotify-widget) • [Documentation](https://github.com/efeytrl/spotify-widget#readme) • [Releases](https://spotify-widget-website.vercel.app/#releases) |
 
 ---
 
@@ -50,21 +49,12 @@ Technologies I use to build modern web applications.
 Let's connect and build something awesome.
 
 <p align="center">
-<a href="https://github.com/kroxlycode">
+<a href="https://github.com/efeytrl">
 <img src="https://skillicons.dev/icons?i=github">
 </a>
-<a href="https://instagram.com/kroxlypain">
+<a href="https://instagram.com/efeytrl">
 <img src="https://skillicons.dev/icons?i=instagram">
-</a>
-<a href="https://discord.com/users/882582406358515713">
-<img src="https://skillicons.dev/icons?i=discord">
 </a>
 </p>
 
 ---
-
-<div align="center">
- 
-![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
-
-</div>
