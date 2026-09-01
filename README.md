@@ -16,8 +16,8 @@ A selection of my recent web projects.
 
 | [efeytrl.dev](https://efeytrl.dev) |  [petsahiplen.com](https://petsahiplen.com) |
 |:---:|:---:|
-| x | x |
-| x | x |
+| <img width="100%" alt="Efeytrl" src="https://github.com/user-attachments/assets/24e6ced7-ca47-4710-a221-be387b9a81b2" /> | <img width="100%" alt="Pet Sahiplen - petsahiplen.com" src="https://github.com/user-attachments/assets/28235720-4e1f-49d7-b19e-23aee1d56da9" /> |
+| My portfolio | A modern pet adoption platform that helps animals find loving homes through a simple and user-friendly experience. |
 | [Visit](https://efeytrl.dev) | [Visit](https://petsahiplen.com) |
 
 ---
